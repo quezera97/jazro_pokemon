@@ -1,29 +1,26 @@
-# jazro
+# Jazro Pokemon App
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Project Vue Setup
 
 ```sh
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Start the development server with hot reload
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Build for production
 npm run build
 ```
+
+## Project Docker Setup
+```sh
+# Build and start the container
+docker-compose up --build
+
+# Stop and remove the container
+docker-compose down
+```
+
+## Netlify Production
+https://effulgent-snickerdoodle-c69aac.netlify.app/

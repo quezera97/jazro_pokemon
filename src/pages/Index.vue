@@ -6,7 +6,7 @@
     style="height: 90vh; overflow-y: auto"
   >
     <section>
-      <h1 class="text-center mb-4 fw-bold">Pokémon Browser</h1>
+      <h1 class="text-center mb-4 fw-bold">Jazro Pokémon App Browser</h1>
 
       <div class="row justify-content-center mb-4">
         <div class="col-12 col-md-6">
