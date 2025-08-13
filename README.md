@@ -16,10 +16,10 @@ npm run build
 ## Project Docker Setup
 ```sh
 # Build and start the container
-docker-compose up --build
+docker compose up --build
 
 # Stop and remove the container
-docker-compose down
+docker compose down
 ```
 
 ## Netlify Production
