@@ -24,3 +24,6 @@ docker compose down
 
 ## Netlify Production
 https://effulgent-snickerdoodle-c69aac.netlify.app/
+
+## Deployed Production App
+https://pokemon.quezera.xyz/
